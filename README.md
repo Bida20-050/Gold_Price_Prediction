@@ -1,11 +1,11 @@
-**Gold Price Prediction and Trading Strategies**
+<h1>Gold Price Prediction and Trading Strategies</h1>
 
 This repository contains a comprehensive project aimed at predicting gold prices and developing trading strategies using historical gold price data. The models used in this project include Linear Regression and Long Short-Term Memory (LSTM) networks. Trading strategies are formulated based on volume and moving averages.
 
-Project Overview
+<h2>Project Overview</h2>
 The primary objectives of this project are:
 
-Time Series Analysis
+<h3>Time Series Analysis</h3>
 
 Explore historical trends and patterns in gold prices from January 19, 2014, to January 22, 2024.
 Identify seasonality, cyclicality, and long-term trends in the gold market.
