@@ -1,4 +1,5 @@
-Gold Price Prediction and Trading Strategies
+**Gold Price Prediction and Trading Strategies**
+
 This repository contains a comprehensive project aimed at predicting gold prices and developing trading strategies using historical gold price data. The models used in this project include Linear Regression and Long Short-Term Memory (LSTM) networks. Trading strategies are formulated based on volume and moving averages.
 
 Project Overview
